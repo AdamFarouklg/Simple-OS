@@ -8,6 +8,7 @@
 #endif
 
 #define MAX_PRIO 139
+#define SLOT 4
 
 int queue_empty(void);
 

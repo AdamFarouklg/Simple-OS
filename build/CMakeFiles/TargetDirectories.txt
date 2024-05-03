@@ -1,0 +1,7 @@
+/Users/vu/Downloads/ossim_mm_tlb_hk241/build/CMakeFiles/mem.dir
+/Users/vu/Downloads/ossim_mm_tlb_hk241/build/CMakeFiles/sched.dir
+/Users/vu/Downloads/ossim_mm_tlb_hk241/build/CMakeFiles/os.dir
+/Users/vu/Downloads/ossim_mm_tlb_hk241/build/CMakeFiles/obj.dir
+/Users/vu/Downloads/ossim_mm_tlb_hk241/build/CMakeFiles/clean_all.dir
+/Users/vu/Downloads/ossim_mm_tlb_hk241/build/CMakeFiles/edit_cache.dir
+/Users/vu/Downloads/ossim_mm_tlb_hk241/build/CMakeFiles/rebuild_cache.dir
